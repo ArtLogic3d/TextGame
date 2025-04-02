@@ -1,0 +1,15 @@
+F:\Programming\C#\TextGame\TextGame\bin\Debug\net7.0\TextGame.exe
+F:\Programming\C#\TextGame\TextGame\bin\Debug\net7.0\TextGame.deps.json
+F:\Programming\C#\TextGame\TextGame\bin\Debug\net7.0\TextGame.runtimeconfig.json
+F:\Programming\C#\TextGame\TextGame\bin\Debug\net7.0\TextGame.dll
+F:\Programming\C#\TextGame\TextGame\bin\Debug\net7.0\TextGame.pdb
+F:\Programming\C#\TextGame\TextGame\obj\Debug\net7.0\TextGame.csproj.AssemblyReference.cache
+F:\Programming\C#\TextGame\TextGame\obj\Debug\net7.0\TextGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\C#\TextGame\TextGame\obj\Debug\net7.0\TextGame.AssemblyInfoInputs.cache
+F:\Programming\C#\TextGame\TextGame\obj\Debug\net7.0\TextGame.AssemblyInfo.cs
+F:\Programming\C#\TextGame\TextGame\obj\Debug\net7.0\TextGame.csproj.CoreCompileInputs.cache
+F:\Programming\C#\TextGame\TextGame\obj\Debug\net7.0\TextGame.dll
+F:\Programming\C#\TextGame\TextGame\obj\Debug\net7.0\refint\TextGame.dll
+F:\Programming\C#\TextGame\TextGame\obj\Debug\net7.0\TextGame.pdb
+F:\Programming\C#\TextGame\TextGame\obj\Debug\net7.0\TextGame.genruntimeconfig.cache
+F:\Programming\C#\TextGame\TextGame\obj\Debug\net7.0\ref\TextGame.dll
